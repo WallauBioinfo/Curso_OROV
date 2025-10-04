@@ -1,0 +1,49 @@
+location	Acre	#b9d191
+location	Amapa	#ccffcc
+location	Amazonas	#316c38
+location	Brazil	#4C9900
+location	Colombia	#202020
+location	Equador	#606060
+location	Espirito Santo	#e6a1b4
+location	French Guiana	#a0a0a0
+location	Haiti	#c0c0c0
+location	Maranhão	#ffcc99
+location	Minas Gerais	#f97f7b
+location	Panama	#e0e0e0
+location	Para	#97ae9a
+location	Pernambuco	#e28336
+location	Peru	#808080
+location	Rio de Janeiro	#d1322c
+location	Rondonia	#c5b3d3
+location	Roraima	#b5f7be
+location	Santa Catarina	#3979b0
+location	Trinindad Tobago	#404040
+location	USA	#7F7676
+location	Venezuela	#443E3E
+location	AC-Rio Branco	#b9d191
+location	GO-Tocantinopolis	#990000
+location	PA-Augusto Correa	#97ae9a
+location	PA-Belem	#97ae9a
+location	PA-Maraba	#97ae9a
+location	PA-Oriximina	#97ae9a
+location	PA-Oriximina	#97ae9a
+location	PA-Oriximina	#97ae9a
+location	PA-Parauapebas	#97ae9a
+location	PA-Porto de Moz	#97ae9a
+location	PA-Santarem	#97ae9a
+clade	I	#CCCC00
+clade	II	#66CC00
+clade	III	#FF8000
+clade	IQTV	#99FFFF
+clade	MDDV	#9999FF
+clade	PEDV	#FF99FF
+clade	Unknown	#C0C0C0
+host	Callithrix	#FF6666
+host	Cebus	#FF9999
+host	Culex quinquefasciatus	#99FF99
+host	Culicoides paraensis	#FFFF99
+host	Human	#FF0000
+host	Nasua nasua	#FFB266
+host	Ochlerotatus serratus	#33FF33
+host	Sloth	#FFCC99
+host	Unknown	#C0C0C0

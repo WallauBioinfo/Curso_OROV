@@ -1,0 +1,81 @@
+LOCUS       PP154170                 944 bp    cRNA    linear   VRL 04-FEB-2024
+DEFINITION  Oropouche virus isolate ILMD_TF29 segment S, complete sequence.
+ACCESSION   PP154170
+VERSION     PP154170.1
+KEYWORDS    .
+SOURCE      Oropouche virus
+  ORGANISM  Oropouche virus
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Ellioviricetes; Bunyavirales; Peribunyaviridae;
+            Orthobunyavirus; Orthobunyavirus oropoucheense.
+REFERENCE   1  (bases 1 to 944)
+  AUTHORS   Almeida,T., Silva,D., Nascimento,F., Mejia,M., Nascimento,V.,
+            Souza,V., Oliveira,Y., Casseb,L., Chiang,J., Cruz,A.C.,
+            Rodrigues,J.T., Morais,M.A., Silva,C., Vieira,D., Meneses,C.,
+            Maito,R., Arcanjo,A.R., Araujo,G., Amorim,T., Barros,D.,
+            Delatorre,E., Graf,T., Wallau,G., Bello,G. and Naveca,F.
+  TITLE     Oropouche virus outbreak Brazil, 2022-2024
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 944)
+  AUTHORS   Silva,D., Nascimento,F., Mejia,M., Nascimento,V., Souza,V.,
+            Oliveira,Y. and Naveca,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2024) Laboratorio de Ecologia de Doencas
+            Transmissiveis na Amazonia, Instituto Leonidas e Maria Deane -
+            Fiocruz Amazonia, Rua Terezina, 476, Adrianopolis, Manaus, Amazonas
+            69.057-070, Brazil
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious Prime v. 2023.2.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..944
+                     /organism="Oropouche virus"
+                     /mol_type="viral cRNA"
+                     /isolate="ILMD_TF29"
+                     /isolation_source="plasma"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:118655"
+                     /segment="S"
+                     /geo_loc_name="Brazil: Amazonas_Tefe"
+                     /collection_date="2015-04-13"
+     gene            44..739
+                     /locus_tag="Nucleoprotein"
+     CDS             44..739
+                     /locus_tag="Nucleoprotein"
+                     /codon_start=1
+                     /product="nucleoprotein"
+                     /protein_id="WVH48335.1"
+                     /translation="MSEFIFNDVPQRTTSTFDPEAAYVAFEARYGQVLNAGVVRVFFL
+                     NQKKAKDVLRKTSRPMVDLTFGGVQFAMVNNHFPQFQSNPVPDNGLTLHRLSGYLARW
+                     AFTQMRSPIKQAEFRATVVVPLAEVKGCTWNDGDAMYLGFAAGAEMFLQTFTFFPLVI
+                     EMHRVLKDGMDVNFMKKVLRQRYGQKTAEQWMREEIVAVRAAFEAVGTLAWARTGFSP
+                     AARDFLRQFGIDI"
+     gene            66..341
+                     /locus_tag="NS"
+     CDS             66..341
+                     /locus_tag="NS"
+                     /codon_start=1
+                     /product="nonstructrural protein"
+                     /protein_id="WVH48334.1"
+                     /translation="MYHNGLHLHLIRRQHMWHLKLDTDKCSMLVLLESSSSTKRRPKM
+                     SYVRHRGPWLTLLLVGSNLQWLITISHNSSRIQCRTTVLPCTVCQDT"
+ORIGIN      
+        1 gtagtgtact ccacaattca aaacataaaa agaaattcca ataatgtcag agttcatttt
+       61 caacgatgta ccacaacgga ctacatctac atttgatccg gaggcagcat atgtggcatt
+      121 tgaagctaga tacggacaag tgctcaatgc tggtgttgtt agagtcttct tcctcaacca
+      181 aaagaaggcc aaagatgtct tacgtaagac atcgcggccc atggttgacc ttacttttgg
+      241 tggggtccaa tttgcaatgg ttaataacca tttcccacaa ttccagtcga atccagtgcc
+      301 ggacaacggt cttaccctgc accgtctgtc aggataccta gctcgctggg ccttcaccca
+      361 gatgcgatca cctattaagc aagctgagtt tagggccact gtggtggtgc ctttggcaga
+      421 ggtgaagggt tgtacttgga atgatggtga cgcaatgtac ctggggtttg ctgccggtgc
+      481 tgagatgttt ctgcaaacat ttactttctt ccctctggtg attgagatgc atagggtcct
+      541 caaggacggc atggatgtca acttcatgaa gaaagtcctt cggcagaggt atggccagaa
+      601 gactgctgaa cagtggatgc gtgaagaaat agttgctgta agagcagctt ttgaggctgt
+      661 aggcactttg gcctgggcca ggactggatt ctccccagca gcaagagact tcttgcgcca
+      721 atttggaatt gacatatagt ggagtacaat aaacaaacag agtataatat aaaatacaaa
+      781 aaaagaaata aaataacaaa aatacaaaaa aactaaaaaa tatataaaat aaacaaaaaa
+      841 agtgcgaaag cacaaaaaag aactgcagct gtaatattat aaagggttgg gtggttgggg
+      901 aaagctatgt cattttagaa aacgtatttt tgaattggga gcac
+//
+
